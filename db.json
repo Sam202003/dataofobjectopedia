@@ -439,7 +439,7 @@
       "active": false,
       "name": "Vivek Kumar",
       "email": "vk640890@gmail.com",
-      "address": "",
+      "address": {},
       "id": "81bkuZFjGxdzlrsPm6r2Q4Za5xB3",
       "cart": [
         {
@@ -542,7 +542,7 @@
       "active": false,
       "name": "Samruddhi Chavan",
       "email": "samruddhichavan05@gmail.com",
-      "address": "",
+      "address": {},
       "id": "GqVTGtdk8gPLuP6jOA7CjxSUhGt1",
       "cart": [
         {
@@ -645,7 +645,7 @@
       "active": false,
       "name": "Ankesh Chopde",
       "email": "acchopde84@gmail.com",
-      "address": "",
+      "address": {},
       "id": "FeFx0vYLEdhPfwJBnVtKNVuUf8I2",
       "cart": [
         {
@@ -748,7 +748,7 @@
       "active": false,
       "name": "Subodh Singh",
       "email": "subodhsingh8543@gmail.com",
-      "address": "",
+      "address": {},
       "id": "x9wzXfDTgVfMjAp4iigLGPmebct2",
       "cart":[
         {
